@@ -1,0 +1,6 @@
+{
+  "Name": "Rating2.1",
+  "Version": "1.0.0",
+  "Description": "Replaces the player rating with an adaptive formula anchored at league average, fixing the all-red scoreboard and the 0 career ratings of other teams.",
+  "Author": "wuyuwan39"
+}

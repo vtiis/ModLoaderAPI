@@ -1,0 +1,6 @@
+{
+  "Name": "BetterGameData",
+  "Version": "1.0.0",
+  "Description": "Regenerates the per-map player stats of simulated matches with a model calibrated to realistic distributions. Optional takeover mode writes the save",
+  "Author": "wuyuwan39"
+}
