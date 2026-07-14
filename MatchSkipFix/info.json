@@ -1,0 +1,6 @@
+{
+  "Name": "MatchSkipFix",
+  "Version": "1.0.0",
+  "Description": "MatchSkipFix is a complete overhaul of the auto-simulation logic in Esports Manager 2026. This mod replaces the broken RNG-heavy system with a transparent calculation based on actual Team Power, ensuring that results make sense, favorites perform as expected, and your management decisions actually matter.",
+  "Author": "ree"
+}
