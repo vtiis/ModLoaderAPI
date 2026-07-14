@@ -1,0 +1,6 @@
+{
+  "Name": "BetterMVP",
+  "Version": "1.0.0",
+  "Description": "Re-selects both the tournament MVP and each single-match MVP by impact rating. On by default; writes to the save (back up first)",
+  "Author": "wuyuwan39"
+}
